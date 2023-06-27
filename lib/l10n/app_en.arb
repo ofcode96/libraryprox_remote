@@ -1,0 +1,388 @@
+{
+    "language":"English",
+    "@language":{
+        "description":"The Current language"
+    },
+    "hello":"hello world",
+    "@hello":{
+        "description":"The Programming language"
+    },
+    "userName":"User  Name",
+    "@userName":{
+        "description":"user name"
+    },
+    "password":"Password",
+    "@password":{
+        "description":"password"
+    },
+    
+    "login":"Login",
+    "@login":{
+        "description":"login"
+    },
+    
+    "fastLogin":"Fast Login",
+    "@fastLogin":{
+        "description":"Fast Login"
+    },
+    
+    "scanQr":"Scann Qr Code",
+    "@scanQr":{
+        "description":"Scann Qr Code"
+    },
+    
+    "dashboard":"Dashboard",
+    "@dashboard":{
+        "description":"dashboard"
+    },
+    
+    "borrow":"Borrow",
+    "@borrow":{
+        "description":"borrow"
+    },
+    
+    "book":"Book",
+    "@book":{
+        "description":"book"
+    } ,
+    
+    "student":"Student",
+    "@student":{
+        "description":"student"
+    } ,
+    
+    "borrowOpr":"Borrow Oprations",
+    "@borrowOpr":{
+        "description":"borrowOpr"
+    }
+     ,
+    
+    "search":"Search",
+    "@search":{
+        "description":"search"
+    }
+     ,
+    
+    "nobooks":"There are no books",
+    "@nobooks":{
+        "description":"nobooks"
+    }
+     ,
+    
+    "notfound":"Not found in the search",
+    "@notfound":{
+        "description":"notfound"
+    }
+     ,
+    
+"toborrow":"To Borrow",
+    "@toborrow":{
+        "description":"toborrow"
+    }
+     ,
+    
+    "edit":"Edit",
+    "@edit":{
+        "description":"edit"
+    }
+     ,
+    
+    "delete":"Delete",
+    "@delete":{
+        "description":"delete"
+    }
+     ,
+    
+    "home":"Home",
+    "@home":{
+        "description":"home"
+    }
+     ,
+    
+    "books":"Books",
+    "@books":{
+        "description":"books"
+    }
+     ,
+    
+    "students":"Students",
+    "@students":{
+        "description":"students"
+    }
+     ,
+    
+    "borrows":"Borrows",
+    "@borrows":{
+        "description":"borrows"
+    }
+     ,
+    
+    "logs":"Logs",
+    "@logs":{
+        "description":"logs"
+    },
+    
+   
+   
+   "users":"Users",
+   "@users":{
+       "description":"users"
+   }, 
+    
+    "about":"About",
+    "@about":{
+        "description":"about"
+    }
+   , 
+    
+    "add":"Add",
+    "@add":{
+        "description":"add"
+    }
+   , 
+    
+    "old":"Update",
+    "@old":{
+        "description":"old"
+    }
+   , 
+    
+    "addnew":"Add New {section}",
+    "@addnew":{
+        "description":"addnew",
+        "placholders":{
+            "section":{
+                "type":"String"
+            }
+        }
+    }
+    , 
+    
+    "booktitle":"Book Title",
+    "@booktitle":{
+        "description":"booktitle"
+    }
+    , 
+    
+    "pages":"Pages",
+    "@pages":{
+        "description":"pages"
+    }
+    , 
+    
+    "part":"Part",
+    "@part":{
+        "description":"part"
+    }
+    , 
+    
+    "version":"Version",
+    "@version":{
+        "description":"version"
+    }
+    , 
+    
+    "dateprint":"Date Print",
+    "@dateprint":{
+        "description":"dateprint"
+    }
+    , 
+    
+    "price":"Price",
+    "@price":{
+        "description":"price"
+    }
+    , 
+    
+    "edition":"Edition",
+    "@edition":{
+        "description":"edition"
+    }
+    , 
+    
+    "copies":"Copies",
+    "@copies":{
+        "description":"copies"
+    }
+    , 
+    
+    "author":"Author",
+    "@author":{
+        "description":"author"
+    }
+    , 
+    
+    "description":"description",
+    "@description":{
+        "description":"description"
+    }
+    , 
+    
+    "studentfullname":"Student Full Name",
+    "@studentfullname":{
+        "description":"studentfullname"
+    }
+    , 
+    
+    "address":"Address",
+    "@studentfullname":{
+        "description":"address"
+    }
+    , 
+    
+    "phonenumber":"Phone Number",
+    "@studentfullname":{
+        "description":"phonenumber"
+    }
+    , 
+    
+    "datebirth":"Date Birth",
+    "@datebirth":{
+        "description":"datebirth"
+    }
+    , 
+    
+    "role":"Role",
+    "@role":{
+        "description":"role"
+    }
+    ,
+    "withid":"{section} ID",
+    "@withid":{
+        "description":"withid",
+        "placholders":{
+            "section":{
+                "type":"String"
+            }
+        }
+    }
+    , 
+    
+    "startdate":"Start Date",
+    "@startdate":{
+        "description":"startdate"
+    }
+    , 
+    
+    "enddate":"End Date",
+    "@enddate":{
+        "description":"enddate"
+    }
+    , 
+    
+    "aviable":"Aviable",
+    "@aviable":{
+        "description":"aviable"
+    }
+    , 
+    
+    "banned":"Banned",
+    "@banned":{
+        "description":"banned"
+    }
+    , 
+    
+    "stateborrow":"State Borrow",
+    "@stateborrow":{
+        "description":"stateborrow"
+    }
+    , 
+    
+    "updateold":"Update {section}",
+    "@updateold":{
+        "description":"updateold",
+        "placholders":{
+            "section":{
+                "type":"String"
+            }
+        }
+    }
+    , 
+    
+    "remove":"Remove",
+    "@remove":{
+        "description":"remove"
+    }
+    , 
+    
+    "admin":"Admin",
+    "@admin":{
+        "description":"admin"
+    }
+    , 
+    
+    "user":"User",
+    "@user":{
+        "description":"user"
+    }
+    , 
+    
+    "update":"Update",
+    "@update":{
+        "description":"update"
+    }
+    
+    , 
+    
+    "lastbrrowed":"Last Brrowed",
+    "@lastbrrowed":{
+        "description":"lastbrrowed"
+    }
+    , 
+    
+    "signindate":"Date of registration",
+    "@signindate":{
+        "description":"signindate"
+    }
+    , 
+    
+    "yes":"Yes",
+    "@yes":{
+        "description":"yes"
+    }
+    , 
+    
+    "no":"No",
+    "@no":{
+        "description":"no"
+    }
+    , 
+    
+    "runing":"Runing",
+    "@runing":{
+        "description":"runnig"
+    }
+    , 
+    
+    "stoped":"Stoped",
+    "@stoped":{
+        "description":"stoped"
+    }
+    , 
+    
+    "missed":"Missed",
+    "@missed":{
+        "description":"missed"
+    }
+    , 
+    
+    "day":"Day",
+    "@day":{
+        "description":"day"
+    }
+    , 
+    
+    "dayleft":"Days Left",
+    "@dayleft":{
+        "description":"dayleft"
+    }
+    , 
+    
+    "aboutdisc":"This utility application for the basic Windows program focuses on easy management of resources, as well as on speed and ease of use",
+    "@aboutdisc":{
+        "description":"aboutdisc"
+    }
+
+   
+   
+}

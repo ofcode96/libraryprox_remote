@@ -1,0 +1,97 @@
+{
+    "language":"Frencia",
+    "hello":"Bienvenue",
+    "userName":"nome D'utilisateur",
+    "password":"Mot De Pass",
+    "login":"Connexion",
+    "fastLogin":"Connexion Rapide",
+    "scanQr":"Scanner le Code QR",
+    "dashboard":"Tableau De Bord",
+    "borrow":"Emprunter",
+    "book":"Livre",
+    "student":"Etudiant",
+    "borrowOpr":"Operation D' emprunter",
+    "search":"Recherche",
+    "nobooks":"Il n'y a pas de livres",
+    "notfound":"Pas trouvé dans la recherche",
+    "toborrow":"Emprunter",
+    "edit":"modifier",
+    "delete":"supprimer",
+    "home":"Maison",
+    "books":"Livres",
+    "students":"Étudiants",
+    "borrows":"Emprunte",
+    "logs":"Journaux",
+    "users":"Utilisateurs",
+    "about":"à propos",
+    "add":"Ajouter",
+    "update":"Mettre à jour",
+    "addnew":"Ajouter un nouvel {section}",
+    "booktitle":"Titre du livre",
+    "pages":"Pages",
+    "part":"Partie",
+    "version":"Version",
+    "dateprint":"Impression de la date",
+    "price":"Prix",
+    "edition":"Édition",
+    "copies":"Copies",
+    "author":"Auteur",
+    "description":"description",
+    "studentfullname":"Nom complet de l'étudiant",
+    "address":"Address",
+    "phonenumber":"Numéro de téléphone",
+    "datebirth":"Date de naissance",
+    "role":"Rôle",
+    "withid":"{section} ID",
+    "startdate":"Start Date",
+    "enddate":"End Date",
+    "aviable":"Disponible",
+    "banned":"Banni",
+    "stateborrow":"Emprunter l'État",
+    "updateold":"Mettre à jour  {section}",
+    "remove":"Supprimer",
+    "admin":"Administrateur",
+    "user":"User",
+    "update":"Mettre à jour",
+    "lastbrrowed":"Dernier Emprunteur",
+    "signindate":"Date de l'inscription",
+    "yes":"Oui",
+    "no":"Non",
+    "runing":"ُEn cours ",
+    "stoped":"Arrêté",
+    "missed":"manqué",
+    "day":"Jour",
+    "dayleft":"Jours restants",
+    "aboutdisc":"Cette application utilitaire pour le programme Windows de base se concentre sur la gestion facile des ressources, ainsi que sur la rapidité et la facilité d'utilisation"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
